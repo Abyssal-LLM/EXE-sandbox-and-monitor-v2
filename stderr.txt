@@ -1,2 +1,0 @@
-Exception ignored while flushing sys.stdout:
-OSError: [Errno 22] Invalid argument
